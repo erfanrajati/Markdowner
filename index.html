@@ -1,0 +1,26 @@
+<html>
+<head>
+  <title>Game Dev Guidelines</title>
+  <link rel="stylesheet" href="./style.css">
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script>
+    function loadMarkdown() {
+      fetch('README.md') // Your markdown file here
+        .then(response => response.text())
+        .then(markdown => {
+          document.getElementById('Markdown').innerHTML = marked.parse(markdown);
+        });
+    }
+  </script>
+</head>
+<body onload="loadMarkdown()">
+  <div id="content">
+    <div id="Markdown"></div>
+    <div id="PlaceHolder"></div>
+    <div id="footer">
+      <p>Regards,</p>
+      <p>Erfan Rajati</p>
+    </div>
+  </div>
+</body>
+</html>
