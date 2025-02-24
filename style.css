@@ -47,13 +47,14 @@ h1 {
 
 h2 {
     /* margin-top: 50px; */
-    font-size: 2rem;
+    font-size: 1.8rem;
     border-bottom: 1px solid #eaeaea;
     padding-bottom: 8px;
 }
 
 h3 {
-    font-size: 1.75rem;
+    font-size: 1.5rem;
+    line-height: 20px;
 }
 
 /* Paragraph and text styling */
