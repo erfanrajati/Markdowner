@@ -3,13 +3,13 @@
 ## **Project Definition**
 Many students become discouraged from learning mathematics due to a lack of access to proper resources and ineffective teaching methods. The *Arithland* competition has been held in Iran for 26 years as an in-person event to gamify this process. However, in-person competitions have limitations for the judging and execution teams. This project aims to create an online platform for hosting these competitions.
 
-## **Core Features**
+### **Core Features**
 - User registration and authentication
 - Standard and real-time judging
 - Banking system
 - Competition analysis
 
-## **Optional Features**
+### **Optional Features**
 - Smart cheating detection system
 - Web-based chatroom
 - Black market (semi-legal question trading store)
@@ -33,7 +33,7 @@ At this stage, the project is tested in real competition environments and monito
 
 ## **Team Members and Responsibilities**
 
-### **Erfan Rajati Haghi: Product Owner, Back-End Developer**
+**Erfan Rajati Haghi: Product Owner, Back-End Developer**
 - Defining the product vision and roadmap
 - Managing and overseeing the development process
 - Designing, implementing, and optimizing the database
@@ -41,25 +41,25 @@ At this stage, the project is tested in real competition environments and monito
 - Server management
 - Organizing and attending weekly meetings
 
-### **Soroosh Sadeghzadeh: Back-End Developer**
+**Soroosh Sadeghzadeh: Back-End Developer**
 - Designing, implementing, and optimizing the database
 - Designing and developing APIs
 - Server management
 - System performance optimization
 
-### **Ali Asghar Bahmanyar: Front-End Developer**
+**Ali Asghar Bahmanyar: Front-End Developer**
 - Designing and implementing the website’s user interface using HTML, CSS, and JavaScript
 - Implementing user interactions and integrating with the back-end
 - Optimizing performance and page load speed
 
-### **Yasaman Ohadi: UI/UX Designer, Business Analyst**
+**Yasaman Ohadi: UI/UX Designer, Business Analyst**
 - Researching and analyzing user needs
 - Designing user experience and interface
 - Creating prototypes and testing samples
 - Collecting and analyzing user data
 - Communicating with project stakeholders
 
-### **Zeinab Sabouri: QAQC Tester, Product Analyst**
+**Zeinab Sabouri: QAQC Tester, Product Analyst**
 - Testing and evaluating product performance
 - Identifying and reporting bugs and usability issues
 - Analyzing product data and providing improvement strategies
